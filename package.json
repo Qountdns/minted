@@ -1,0 +1,19 @@
+{
+  "name": "minted",
+  "version": "1.0.0",
+  "description": "ethereum.org tutorial series - Write, deploy and mint a NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qountdns/minted.git"
+  },
+  "author": "Quentin Deneys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qountdns/minted/issues"
+  },
+  "homepage": "https://github.com/Qountdns/minted#readme"
+}
